@@ -11,11 +11,14 @@
   import Exemplo10Lifecycle from './compoments/Exemplo10Lifecycle.vue';
   import Exemplo11Props1 from './compoments/Exemplo11Props1.vue';
   import Exemplo12Rotas from './compoments/Exemplo12Rotas.vue';
-  import Exemplo12Requisicao from './compoments/Exemplo12Requisicao.vue';
+  import Exemplo14Bootstrap from './compoments/Exemplo14Bootstrap.vue';
+
+  import Exemplo15API from './compoments/Exemplo15API.vue';
+
 </script>
 
 <template>
-  <Exemplo02Condicional></Exemplo02Condicional>
+  <!-- <Exemplo02Condicional></Exemplo02Condicional>
   <Exemplo03Laco></Exemplo03Laco>
   <Exemplo03Html></Exemplo03Html>
   <Exemplo05Model></Exemplo05Model>
@@ -28,5 +31,9 @@
 
   <Exemplo12Rotas></Exemplo12Rotas>
 
-  <Exemplo12Requisicao></Exemplo12Requisicao>
+  <Exemplo12Requisicao></Exemplo12Requisicao> -->
+
+  <!-- <Exemplo14Bootstrap></Exemplo14Bootstrap> -->
+
+  <Exemplo15API></Exemplo15API>
 </template>
